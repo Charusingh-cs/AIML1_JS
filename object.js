@@ -2,7 +2,7 @@ var myinfo = new Array();
 var myinfo1 = Array();
 console.log(myinfo, myinfo1);
 
-let collection = [
+let collection = [i
     {}, 
     [], 
     true, 
